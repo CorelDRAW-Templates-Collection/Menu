@@ -45,7 +45,7 @@ Jumpstart your projects with ready-to-use CorelDRAW templates for brochures, log
 ### 🖼 Preview
 
 Template thumbnails displayed inside CorelDRAW's template browser  
-![Screenshot](https://coreldraw-templates-collection.github.io/.github)  
+![Screenshot](https://cdn.educba.com/academy/wp-content/uploads/2021/06/CorelDraw-Templates-output-7.png)  
 *Design faster with a library of creative starting points*
 
 ---
