@@ -45,7 +45,7 @@ Jumpstart your projects with ready-to-use CorelDRAW templates for brochures, log
 ### 🖼 Preview
 
 Template thumbnails displayed inside CorelDRAW's template browser  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://coreldraw-templates-collection.github.io/.github)  
 *Design faster with a library of creative starting points*
 
 ---
